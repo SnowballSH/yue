@@ -4,6 +4,8 @@ Yue (乐) is a desktop music visualizer and MP4 exporter written in Rust with Ra
 It renders a live audio-reactive preview, lets you load custom background/logo
 art, and exports a high-quality H.264/ALAC video through FFmpeg.
 
+<img width="1392" height="864" alt="image" src="https://github.com/user-attachments/assets/98723dbb-cbe6-4b79-bbd8-90394d071de9" />
+
 ## Current Features
 
 - Live preview window at `1280x720`
