@@ -6,7 +6,7 @@ edition = "2024"
 [dependencies]
 raylib = "5.5.1"
 rustfft = "6.2"
-rand = "0.8"
+rand = "0.9"
 rfd = "0.14"
 hound = "3.5.1"
 symphonia = "0.5.5"
